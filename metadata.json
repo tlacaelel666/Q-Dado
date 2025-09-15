@@ -1,0 +1,5 @@
+{
+  "name": "Quantum Dice Simulator",
+  "description": "A web application that simulates a quantum dice roll, visualizing its properties and statistics. Each roll generates superposed states, with the Hamiltonian representing the system's total energy and cosine operators showing quantum projections.",
+  "requestFramePermissions": []
+}
