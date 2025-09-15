@@ -1,16 +1,16 @@
 <img width="770" height="449" alt="ddadocuantico" src="https://github.com/user-attachments/assets/3b8b171f-8009-4226-8bae-20c67ee760dc" />
 
-
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 [![React](https://img.shields.io/badge/React-19.1.1-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8.2-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-6.2.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 
 ![Quantum Computing](https://img.shields.io/badge/Quantum-Computing-FF6B6B?style=flat-square)
 ![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=flat-square)
 
 ## ✨ Características
@@ -62,8 +62,8 @@ Una aplicación web interactiva que simula un sistema cuántico de 3 qubits repr
 
 1. **Clonar el repositorio**
 ```bash
-git clone <repository-url>
-cd quantum-dice-simulator
+git clone https://github.com/tlacaelel666/Quantum-Dice-Simulator.git
+cd Quantum-Dice-Simulator
 ```
 
 2. **Instalar dependencias**
@@ -111,11 +111,13 @@ docker run -p 3000:3000 -e GEMINI_API_KEY=tu_clave_api_aquí quantum-dice-simula
 1. Activa la opción **"Activar Corrección de Errores (QEC)"**
 2. Los lanzamientos mostrarán el proceso de detección y corrección
 3. Observa cómo el sistema recupera el estado lógico correcto
+<img width="710" height="53" alt="dadocorreccion" src="https://github.com/user-attachments/assets/994dfd10-b351-45d0-84ac-2e0d866db1a2" />
 
 ### Lanzamientos en Lote
 1. Configura el número de tiradas automáticas (10, 50, 100, o personalizado)
 2. Haz clic en **"Iniciar Lote"** para ejecutar múltiples simulaciones
 3. Analiza las estadísticas y distribuciones resultantes
+<img width="737" height="452" alt="dadointerfaz" src="https://github.com/user-attachments/assets/2b418d6f-7b39-4424-86e7-60f9cde1b5d3" />
 
 ### Dinámica Cuántica
 1. Después de un lanzamiento, explora la sección **"Dinámica Cuántica"**
@@ -240,7 +242,9 @@ Hecho con ❤️ para la educación en computación cuántica gracias a
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
-por los recursos 
+   
+# por los recursos 
+
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
