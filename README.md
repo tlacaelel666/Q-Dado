@@ -249,8 +249,7 @@ Hecho con ❤️ para la educación en computación cuántica gracias a
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Oz--P5bz0rP8thSRLlCJ4LCQMLXjliFr
-
+View your app in AI Studio: https://quantum-dice-simulator-112672694902.us-west1.run.app/
 ## Run Locally
 
 **Prerequisites:**  Node.js
